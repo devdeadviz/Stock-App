@@ -4,7 +4,7 @@ A stock app which takes initial value of your stock, quantity of stocks which yo
 
 # Application Link
 
-Live App Link -
+Live App Link - [https://devdeadviz-stock-app.netlify.app/](https://devdeadviz-stock-app.netlify.app/)
 
 # Tech Stack
 
